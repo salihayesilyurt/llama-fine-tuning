@@ -7,3 +7,4 @@ GTU Staj Yönerge  LLMA Fine-Tuning
 *  Unsloth ile Fine Tuning Eğitimi
 *  Eğitilen Modeli GGUF Formatında Paketlemek
 *  Modeli Ollama Üzerinden Kullanmak
+   *   ollama run hf.co/salihayesilyurt/gtu_staj_yonerge:Q4_K_M  
